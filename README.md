@@ -44,7 +44,7 @@ Developer me = {
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/github.com%2Fbxwvb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bxwvb)
+[![GitHub](https://img.shields.io/badge/github.com%2Fbxwvb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bxwp)
 
 </div>
 <br>
